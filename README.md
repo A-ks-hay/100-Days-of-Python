@@ -9,6 +9,7 @@ The print() function is used to display messages or output on the screen.
 
 Strings (text) are written inside quotes " " or ' '.
 
+
 Day 2: Variables in Python
 
 What I Learned
