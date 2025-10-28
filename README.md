@@ -20,3 +20,14 @@ No need to declare data types — Python assigns automatically.
 
 Naming rules for variables are important.
 
+Day 3: Input and Output in python
+
+What I Learned
+
+How to take user input using the input() function
+
+How to convert input data types (e.g., from string to integer using int() or float())
+
+How to display output using the print() function
+
+The difference between simple printing and formatted printing
