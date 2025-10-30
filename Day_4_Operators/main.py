@@ -1,3 +1,4 @@
+#Arithmetic Operator
 # Variables
 a = 15
 b = 4
@@ -100,3 +101,4 @@ a, b = 10, 20
 min = a if a < b else b
 
 print(min)
+
