@@ -31,3 +31,23 @@ How to convert input data types (e.g., from string to integer using int() or flo
 How to display output using the print() function
 
 The difference between simple printing and formatted printing
+
+Day 4: Operators in Python
+
+What I Learned
+
+Arithmetic Operators:Used for basic mathematical operations.
+
+Comparison (Relational) Operators:Used to compare two values.
+
+Logical Operators:Used to combine multiple conditions.
+
+Bitwise Operators:Operate on binary numbers.
+
+Assignment Operators:Used to assign and update variable values.
+
+Identity Operators:Used to compare memory locations of two objects.
+
+Membership Operators:Used to check if a value exists in a sequence (like list, string, tuple).
+
+Ternary Operator (Conditional Expression):Used to write simple if-else conditions in one line.
