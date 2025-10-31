@@ -51,3 +51,31 @@ Identity Operators:Used to compare memory locations of two objects.
 Membership Operators:Used to check if a value exists in a sequence (like list, string, tuple).
 
 Ternary Operator (Conditional Expression):Used to write simple if-else conditions in one line.
+
+Day 5: Conditional Statements in Python
+
+Topics Covered:
+
+if statement
+
+if-else statement
+
+if-elif-else ladder
+
+Nested if statements
+
+Logical operators (and, or, not) with conditions
+
+Ternary Operator
+
+What I Learned
+
+How to control program flow using if, elif, and else
+
+How to use logical operators (and, or, not) in conditions
+
+How nested if statements work
+
+How to write compact conditions using the ternary operator
+
+Decision-making is a core concept for real-world applications
