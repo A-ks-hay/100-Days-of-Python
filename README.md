@@ -1,5 +1,6 @@
 # 100-Days-of-Python
-Day 1: Hello World, printing.
+
+# Day 1: Hello World, printing.
 
 What I Learned
 
@@ -10,7 +11,7 @@ The print() function is used to display messages or output on the screen.
 Strings (text) are written inside quotes " " or ' '.
 
 
-Day 2: Variables in Python
+# Day 2: Variables in Python
 
 What I Learned
 
@@ -20,7 +21,7 @@ No need to declare data types — Python assigns automatically.
 
 Naming rules for variables are important.
 
-Day 3: Input and Output in python
+# Day 3: Input and Output in python
 
 What I Learned
 
@@ -32,7 +33,7 @@ How to display output using the print() function
 
 The difference between simple printing and formatted printing
 
-Day 4: Operators in Python
+# Day 4: Operators in Python
 
 What I Learned
 
@@ -52,7 +53,7 @@ Membership Operators:Used to check if a value exists in a sequence (like list, s
 
 Ternary Operator (Conditional Expression):Used to write simple if-else conditions in one line.
 
-Day 5: Conditional Statements in Python
+# Day 5: Conditional Statements in Python
 
 Topics Covered:
 
@@ -79,3 +80,31 @@ How nested if statements work
 How to write compact conditions using the ternary operator
 
 Decision-making is a core concept for real-world applications
+
+# Day 6: Loops in Python
+
+Topics Covered
+
+for loop
+
+while loop
+
+range() function
+
+Loop control statements → break, continue, pass
+
+Nested loops
+
+Using else with loops
+
+What I Learned
+
+How to repeat actions using loops efficiently
+
+Difference between for and while loops
+
+How to control loops using break, continue, and pass
+
+How nested loops work
+
+How to use an else clause with a loop
