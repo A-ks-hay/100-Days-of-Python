@@ -2,7 +2,7 @@
 
 # Day 1: Hello World, printing.
 
-What I Learned
+# What I Learned
 
 Python is a high-level, easy-to-learn programming language.
 
@@ -13,7 +13,7 @@ Strings (text) are written inside quotes " " or ' '.
 
 # Day 2: Variables in Python
 
-What I Learned
+# What I Learned
 
 Variables store data values.
 
@@ -23,7 +23,7 @@ Naming rules for variables are important.
 
 # Day 3: Input and Output in python
 
-What I Learned
+# What I Learned
 
 How to take user input using the input() function
 
@@ -35,7 +35,7 @@ The difference between simple printing and formatted printing
 
 # Day 4: Operators in Python
 
-What I Learned
+# What I Learned
 
 Arithmetic Operators:Used for basic mathematical operations.
 
@@ -55,7 +55,7 @@ Ternary Operator (Conditional Expression):Used to write simple if-else condition
 
 # Day 5: Conditional Statements in Python
 
-Topics Covered:
+# Topics Covered:
 
 if statement
 
@@ -69,7 +69,7 @@ Logical operators (and, or, not) with conditions
 
 Ternary Operator
 
-What I Learned
+# What I Learned
 
 How to control program flow using if, elif, and else
 
@@ -83,7 +83,7 @@ Decision-making is a core concept for real-world applications
 
 # Day 6: Loops in Python
 
-Topics Covered
+# Topics Covered
 
 for loop
 
@@ -97,7 +97,7 @@ Nested loops
 
 Using else with loops
 
-What I Learned
+# What I Learned
 
 How to repeat actions using loops efficiently
 
